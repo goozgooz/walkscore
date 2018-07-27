@@ -6,6 +6,7 @@ const parseData = require('./lib/parse-data.js');
 let walkscoreReport = (csv) => {
   getData(csv)
     .then(parseData)
+    // .then(console.log)
     .catch(console.log);
 };
 
