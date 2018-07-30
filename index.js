@@ -2,11 +2,12 @@
 
 const getData = require('./lib/import-data.js');
 const parseData = require('./lib/parse-data.js');
+const writeData = require('./lib/write-data.js');
 
 let walkscoreReport = (csv) => {
   getData(csv)
     .then(parseData)
-    .then(console.log)
+    .then(writeData)
     .catch(console.log);
 };
 
