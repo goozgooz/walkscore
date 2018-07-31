@@ -7,7 +7,9 @@ const writeData = require('./lib/write-data.js');
 let walkscoreReport = (csv) => {
   getData(csv)
     .then(parseData)
-    .then(writeData)
+    .then(results => {
+      writeData(results,csv);
+    })
     .catch(console.log);
 };
 
