@@ -1,24 +1,23 @@
-DateAdded,Member ID,AddressLine,AddressLine2,City,State,ZipCode,Weight Loss %
-4/2/2018,,17461 Revello Drive,,Pacific Palisades,CA,90272,
-4/2/2018,,7595 n Wheeler ave,,Fresno,CA,93722,
-4/2/2018,,6032 Walters Loop,,Columbus,GA,31907,
-4/2/2018,,3377 Grasmere Dr,,Lexington,KY,40503,
-4/2/2018,,1624 Peachtree Station Circle,,Peachtree City,GA,30263,
-4/2/2018,,149 CR 476,B1203,Grand Lake,CO,80447,
-4/2/2018,,6921 Amberwick Way,,Citrus Heights,CA,95621,
-4/2/2018,,7490 county road 10 south,,Alamosa,CO,81101,
-4/2/2018,,31284 Burton,,Saint Clair shores,MI,48082,
-4/2/2018,,9195 W 49th PL,,Arvada,CO,80002,
-4/2/2018,,4409 nelson ln,,Colorado Springs,CO,80911,
-4/2/2018,,3120 Crepe Mrytle Court Unit B,,Albany,GA,31721,
-4/2/2018,,204 Veys Ave,,Kelso,WA,98626,
-4/2/2018,,2843 EDWIN JONES DR,,Charlotte,NC,28269,
-4/2/2018,,340 C. E. Smith Road,,Shepherdsville,KY,40165,
-4/2/2018,,329 Rancho Viejo Blvd,,Brownsville,TX,78526,
-4/2/2018,,5250 Highway 138 Apt 2324,,Union City,GA,30291,
-4/2/2018,,979 East Circle Drive 23,,Florence,KY,41042,
-4/2/2018,,14059 Trudy Lane,,Sedalia,CO,80135,
-4/2/2018,,4177 Kings Troop Road,,Stone Mountain,GA,30083,
-4/2/2018,,52 Magnolia Pkwy,,Hampton,GA,30228,
-4/2/2018,,31284 BURTON ST,,ST CLR SHORES,,48082,
-,,,,,,,
+DateAdded,Member ID,AddressLine,AddressLine2,City,State,ZipCode,Weight Loss %,walkscore
+4/2/2018,,17461 Revello Drive,,Pacific Palisades,CA,90272,,40
+4/2/2018,,7595 n Wheeler ave,,Fresno,CA,93722,,26
+4/2/2018,,6032 Walters Loop,,Columbus,GA,31907,,7
+4/2/2018,,3377 Grasmere Dr,,Lexington,KY,40503,,5
+4/2/2018,,1624 Peachtree Station Circle,,Peachtree City,GA,30263,,22
+4/2/2018,,149 CR 476,B1203,Grand Lake,CO,80447,,1
+4/2/2018,,6921 Amberwick Way,,Citrus Heights,CA,95621,,32
+4/2/2018,,7490 county road 10 south,,Alamosa,CO,81101,,
+4/2/2018,,31284 Burton,,Saint Clair shores,MI,48082,,51
+4/2/2018,,9195 W 49th PL,,Arvada,CO,80002,,39
+4/2/2018,,4409 nelson ln,,Colorado Springs,CO,80911,,18
+4/2/2018,,3120 Crepe Mrytle Court Unit B,,Albany,GA,31721,,11
+4/2/2018,,204 Veys Ave,,Kelso,WA,98626,,19
+4/2/2018,,2843 EDWIN JONES DR,,Charlotte,NC,28269,,23
+4/2/2018,,340 C. E. Smith Road,,Shepherdsville,KY,40165,,4
+4/2/2018,,329 Rancho Viejo Blvd,,Brownsville,TX,78526,,8
+4/2/2018,,5250 Highway 138 Apt 2324,,Union City,GA,30291,,13
+4/2/2018,,979 East Circle Drive 23,,Florence,KY,41042,,30
+4/2/2018,,14059 Trudy Lane,,Sedalia,CO,80135,,
+4/2/2018,,4177 Kings Troop Road,,Stone Mountain,GA,30083,,8
+4/2/2018,,52 Magnolia Pkwy,,Hampton,GA,30228,,35
+4/2/2018,,31284 BURTON ST,,ST CLR SHORES,,48082,,34
