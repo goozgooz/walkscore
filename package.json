@@ -8,8 +8,8 @@
     "csv-parse": "^2.5.0",
     "csv-writer": "^1.0.0",
     "dotenv": "^6.0.0",
-    "superagent": "^3.8.3",
-    "urlencode": "^1.1.0"
+    "query-string": "^6.1.0",
+    "superagent": "^3.8.3"
   },
   "devDependencies": {},
   "scripts": {
