@@ -10,7 +10,6 @@ let walkscoreReport = (csv) => {
     .then(parseData)
     .then(getWalkscore)
     .then(results => {
-      // console.log(results);
       writeData(results,csv);
     })
     .catch(console.log);
