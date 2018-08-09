@@ -10,10 +10,10 @@ let walkscoreReport = (csv) => {
   getData(csv)
     .then(parseData)
     .then(getWalkscore)
-    // .then(results => {
-    //   writeData(results,csv);
-    // })
-    .then(chart)
+    .then(results => {
+      // writeData(results,csv);
+      chart(results, csv);
+    })
     .catch(console.log);
 };
 
