@@ -8,6 +8,7 @@
     "csv-parse": "^2.5.0",
     "csv-writer": "^1.0.0",
     "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
     "query-string": "^6.1.0",
     "superagent": "^3.8.3"
   },
