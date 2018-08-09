@@ -1,9 +1,9 @@
 # HealthSlate WalkScore Study
 ## Setup Steps
 ### 1. Create .env  file with the following
-`WALKSCORE_KEY`
-`MAPQUEST_KEY`
-`PLOTLY_KEY`
+- `WALKSCORE_KEY`
+- `MAPQUEST_KEY`
+- `PLOTLY_KEY`
 ### 2. Add .csv file with data into root folder
 ### 3. From command line run `node index.js [your-filename].csv`
 
