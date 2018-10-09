@@ -1,23 +1,23 @@
-DateAdded,Member ID,AddressLine,AddressLine2,City,State,ZipCode,WeightLoss,,,,,,,,,,,,,,,,,,,
-4/2/2018,13041,17461 Revello Drive,,Pacific Palisades,CA,90272,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13198,7595 n Wheeler ave,,Fresno,CA,93722,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13173,6032 Walters Loop,,Columbus,GA,31907,4.52,,,,,,,,,,,,,,,,,,,
-4/2/2018,13196,3377 Grasmere Dr,,Lexington,KY,40503,3.43,,,,,,,,,,,,,,,,,,,
-4/2/2018,13204,1624 Peachtree Station Circle,,Peachtree City,GA,30263,0.47,,,,,,,,,,,,,,,,,,,
-4/2/2018,13199,149 CR 476,B1203,Grand Lake,CO,80447,13.63,,,,,,,,,,,,,,,,,,,
-4/2/2018,13441,6921 Amberwick Way,,Citrus Heights,CA,95621,12.62,,,,,,,,,,,,,,,,,,,
-4/2/2018,13217,7490 county road 10 south,,Alamosa,CO,81101,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13443,31284 Burton,,Saint Clair shores,MI,48082,7.05,,,,,,,,,,,,,,,,,,,
-4/2/2018,13353,9195 W 49th PL,,Arvada,CO,80002,8.33,,,,,,,,,,,,,,,,,,,
-4/2/2018,13215,4409 nelson ln,,Colorado Springs,CO,80911,6.58,,,,,,,,,,,,,,,,,,,
-4/2/2018,13234,3120 Crepe Mrytle Court Unit B,,Albany,GA,31721,0.52,,,,,,,,,,,,,,,,,,,
-4/2/2018,13235,204 Veys Ave,,Kelso,WA,98626,2.66,,,,,,,,,,,,,,,,,,,
-4/2/2018,13256,2843 EDWIN JONES DR,,Charlotte,NC,28269,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13257,340 C. E. Smith Road,,Shepherdsville,KY,40165,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13260,329 Rancho Viejo Blvd,,Brownsville,TX,78526,0.46,,,,,,,,,,,,,,,,,,,
-4/2/2018,13261,5250 Highway 138 Apt 2324,,Union City,GA,30291,-0.19,,,,,,,,,,,,,,,,,,,
-4/2/2018,13264,979 East Circle Drive 23,,Florence,KY,41042,8.38,,,,,,,,,,,,,,,,,,,
-4/2/2018,13265,14059 Trudy Lane,,Sedalia,CO,80135,0,,,,,,,,,,,,,,,,,,,
-4/2/2018,13266,4177 Kings Troop Road,,Stone Mountain,GA,30083,8.85,,,,,,,,,,,,,,,,,,,
-4/2/2018,13267,52 Magnolia Pkwy,,Hampton,GA,30228,1.16,,,,,,,,,,,,,,,,,,,
-4/2/2018,13340,31284 BURTON ST,,ST CLR SHORES,,48082,3.85,,,,,,,,,,,,,,,,,,,
+DateAdded,Member ID,AddressLine,AddressLine2,City,State,ZipCode,WeightLoss,***
+4/2/2018,13041,17461 Revello Drive,,Pacific Palisades,CA,90272,0,***
+4/2/2018,13198,7595 n Wheeler ave,,Fresno,CA,93722,0,***
+4/2/2018,13173,6032 Walters Loop,,Columbus,GA,31907,4.52,***
+4/2/2018,13196,3377 Grasmere Dr,,Lexington,KY,40503,3.43,***
+4/2/2018,13204,1624 Peachtree Station Circle,,Peachtree City,GA,30263,0.47,***
+4/2/2018,13199,149 CR 476,B1203,Grand Lake,CO,80447,13.63,***
+4/2/2018,13441,6921 Amberwick Way,,Citrus Heights,CA,95621,12.62,***
+4/2/2018,13217,7490 county road 10 south,,Alamosa,CO,81101,0,***
+4/2/2018,13443,31284 Burton,,Saint Clair shores,MI,48082,7.05,***
+4/2/2018,13353,9195 W 49th PL,,Arvada,CO,80002,8.33,***
+4/2/2018,13215,4409 nelson ln,,Colorado Springs,CO,80911,6.58,***
+4/2/2018,13234,3120 Crepe Mrytle Court Unit B,,Albany,GA,31721,0.52,***
+4/2/2018,13235,204 Veys Ave,,Kelso,WA,98626,2.66,***
+4/2/2018,13256,2843 EDWIN JONES DR,,Charlotte,NC,28269,0,***
+4/2/2018,13257,340 C. E. Smith Road,,Shepherdsville,KY,40165,0,***
+4/2/2018,13260,329 Rancho Viejo Blvd,,Brownsville,TX,78526,0.46,***
+4/2/2018,13261,5250 Highway 138 Apt 2324,,Union City,GA,30291,-0.19,***
+4/2/2018,13264,979 East Circle Drive 23,,Florence,KY,41042,8.38,***
+4/2/2018,13265,14059 Trudy Lane,,Sedalia,CO,80135,0,***
+4/2/2018,13266,4177 Kings Troop Road,,Stone Mountain,GA,30083,8.85,***
+4/2/2018,13267,52 Magnolia Pkwy,,Hampton,GA,30228,1.16,***
+4/2/2018,13340,31284 BURTON ST,,ST CLR SHORES,,48082,3.85,***
